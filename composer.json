@@ -1,9 +1,9 @@
 {
-    "name"        : "scribe/yui-compressor",
+    "name"        : "scribe/yuicompressor-library",
     "description" : "An up-to-date fork of Yahoo's JS and CSS compressor, kept in regular sync with upstream, except this one comes with a composer file.",
     "keywords"    : ["scribe", "javascript", "css", "compressor", "minifier", "compiler"],
     "type"        : "library",
-    "homepage"    : "https://github.com/scribenet/yui-compressor",
+    "homepage"    : "https://github.com/scribenet/ScribeYuiCompressorLibrary",
     "license"     : "BSD-3-Clause",
     "authors"     : [
         {
@@ -27,6 +27,6 @@
             "role" : "Contributor"
         }
     ],
-    "target-dir": "Scribe/YuiCompressor",
-    "bin": ["dist/yui-compressor"]
+    "target-dir": "Scribe/YuiCompressorLibrary",
+    "bin": ["dist/scribe-yuicompressor"]
 }
