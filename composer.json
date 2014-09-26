@@ -27,6 +27,5 @@
             "role" : "Contributor"
         }
     ],
-    "target-dir": "Scribe/YuiCompressorLibrary",
     "bin": ["dist/scribe-yuicompressor"]
 }
